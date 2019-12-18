@@ -15,13 +15,13 @@ into the {body} of the default.hbs template -->
         <div class="site-header-content">
             <h1 class="site-title">
                 {% if site.logo %}
-                <img style="border-radius: 35px;width: 100px;-webkit-user-select: none;margin: auto;cursor: zoom-in;height: 100px;" src="https://davenplay.github.io/Blogstayn/assets/images/27095315.jpg" width="100" height="100">
+                <img style="border-radius: 10px;width: 100px;-webkit-user-select: none;margin: auto;cursor: zoom-in;height: 100px;" src="https://davenplay.github.io/Blogstayn/assets/images/27095315.jpg" width="100" height="100">
                    
                 {% else %}
                     {{ site.title }}
                 {% endif %}
             </h1>
-            <h1 class="site-description">Stalyn A. Blog</h1>
+            <h1 class="post-card-title">Stalyn A. Blog</h1>
               <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
         </div>
         {% include site-nav.html %}
