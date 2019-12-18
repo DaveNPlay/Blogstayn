@@ -8,10 +8,9 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+>Stalyn Asitmbay
+Hola, mi nombre completo es Stalyn David Asitimbay Shigla, tengo 19 años, vivo en la ciudad de Guayaquil, Ecuadror y sigo mis estudios en la Univerdad De Guayaquil en la Carrera de Software, mido 165 cm de estatura, y me gusta ayudar a las personas.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
-
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
-
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+>Ámbito academico
+Estudiante en ingeniería en Software.
+Soy una persona joven, formal y llena de energía para integrarme en un equipo de trabajo, en el que aportar mi conocimiento y formación, para de este modo aumentar mi experiencia profesional en un entorno real, fuera del ámbito académico.
